@@ -1,0 +1,16 @@
+{
+"companyName": "Easton Shirey",
+"productName": "Appleman Game - 5th Period",
+"productVersion": "1.0",
+"dataUrl": "applemann.data.unityweb",
+"wasmCodeUrl": "applemann.wasm.code.unityweb",
+"wasmFrameworkUrl": "applemann.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.29f1"
+}
